@@ -49,4 +49,8 @@ Crie um novo array chamado hamburguer que irá armazenar os ingredientes do ha
 
 ## Atividade 06
 ### Batalha de Robôs 🤖💥
-Em um futuro distante, robôs gigantes batalham em arenas pelo entretenimento das multidões! Você é o programador responsável por controlar o arsenal de um desses robôs. Crie um array chamado armas contendo pelo menos 5 tipos de armas (strings), como "Laser", "Mísseis", etc, a posição 0 do array deve indicar o nome do robô e a mensagem deve mostrar “Nome: [nome do robô]”. Crie um array chamado ataques que inicialmente estará vazio. Este array representará a sequência de ataques que seu robô irá realizar. Adicione a ordem dos ataques ao array, usando os índices do array armas. Exiba no console a sequência de ataques do seu robô, um por linha, prefixando cada ataque com "Ataque [número do ataque]: [nome do atque]".
+Em um futuro distante, robôs gigantes batalham em arenas pelo entretenimento das multidões! Você é o programador responsável por controlar o arsenal de um desses robôs. Crie um array chamado armas contendo pelo menos 5 tipos de armas (strings), como "Laser", "Mísseis", etc, a posição 0 do array deve indicar o nome do robô e a mensagem deve mostrar “Nome: [nome do robô]”. Crie um array chamado ataques que inicialmente estará vazio. Este array representará a sequência de ataques que seu robô irá realizar. Adicione a ordem dos ataques ao array, usando os índices do array armas. Exiba no console a sequência de ataques do seu robô, um por linha, prefixando cada ataque com "Ataque [número do ataque]: [nome do ataque]".
+
+## Atividade 07
+### Maratona de Livros 📚
+Um leitor apaixonado por livros definiu uma meta de ler um certo número de livros por mês. Você precisa criar um programa que o ajude a acompanhar seu progresso e verificar se ele atingiu sua meta.

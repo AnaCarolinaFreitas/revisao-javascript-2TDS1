@@ -6,10 +6,8 @@ ataques.push(arsenal[1]);
 ataques.push(arsenal[3]);
 
 for (let i = 0; i < ataques.length; i++) {
-    if (ataques[i] == ataques[0]){;
+    if (ataques[i] == ataques[0]){
     console.log("Nome do robô: " + arsenal[0])
     }
     console.log("Ataque", i+1 + ": " + ataques[i]);
 }
-
-
