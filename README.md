@@ -46,3 +46,7 @@ Implemente uma lógica para que, a cada 5 palmas, o programa adicione um emoji d
 ### Montando o Hambúrguer Perfeito 🍔🤖
 Uma lanchonete modernizou o seu sistema de pedidos! Agora, os clientes montam seus hambúrgueres diretamente no código, sem precisar de interface gráfica. É a sua vez de programar essa experiência inovadora!
 Crie um novo array chamado hamburguer que irá armazenar os ingredientes do hambúrguer montado. Utilize os índices dos arrays para adicionar os seguintes ingredientes ao hambúrguer. Utilize console.log() para exibir os ingredientes do habúrguer no terminal, um em cada linha.
+
+## Atividade 06
+### Batalha de Robôs 🤖💥
+Em um futuro distante, robôs gigantes batalham em arenas pelo entretenimento das multidões! Você é o programador responsável por controlar o arsenal de um desses robôs. Crie um array chamado armas contendo pelo menos 5 tipos de armas (strings), como "Laser", "Mísseis", etc, a posição 0 do array deve indicar o nome do robô e a mensagem deve mostrar “Nome: [nome do robô]”. Crie um array chamado ataques que inicialmente estará vazio. Este array representará a sequência de ataques que seu robô irá realizar. Adicione a ordem dos ataques ao array, usando os índices do array armas. Exiba no console a sequência de ataques do seu robô, um por linha, prefixando cada ataque com "Ataque [número do ataque]: [nome do atque]".
